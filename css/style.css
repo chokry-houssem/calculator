@@ -1,0 +1,26 @@
+body {
+	background-image: url('../hires.jpg');
+}
+p{
+	color:white;
+	font-size:70px;
+	font-family:cursive;
+	display: inline;
+}
+input[type="button"]{
+	font-size:15px;
+	color: green;
+	padding:10px;
+	margin:0px;
+	border:1px solid :white;
+}
+input[type="button"]:hover{
+	color:violet;
+	padding:12px;
+}
+input[type="text"]{
+  padding:9px 3px;
+  font-size:15;
+  color: orange;
+  font-width:bold;
+}
